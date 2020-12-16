@@ -1,0 +1,12 @@
+ATOM      1  C1  BNZ A   1       0.254  -1.046  -1.069  1.00 99.99           C  
+ATOM      2  C2  BNZ A   1      -0.562  -1.388   0.006  1.00 99.99           C  
+ATOM      3  C3  BNZ A   1      -0.822  -0.438   0.989  1.00 99.99           C  
+ATOM      4  C4  BNZ A   1      -0.002   0.684   1.082  1.00 99.99           C  
+ATOM      5  C5  BNZ A   1       0.779   1.045  -0.012  1.00 99.99           C  
+ATOM      6  C6  BNZ A   1       0.755   0.250  -1.155  1.00 99.99           C  
+CONECT    1    2    6
+CONECT    2    3    1
+CONECT    3    4    2
+CONECT    4    5    3
+CONECT    5    6    4
+CONECT    6    1    5
